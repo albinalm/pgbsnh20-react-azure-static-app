@@ -1,5 +1,5 @@
 module.exports = async function (context, req) {
     context.res.json({
-        text: "Hello from the API. This message s recieved via a Azure Functions API."
+        text: "Hello... Anyone there? This is the API calling... bzzt API to Charlie 1. Charlie 1 come in?"
     });
 };
